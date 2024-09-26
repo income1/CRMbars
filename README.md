@@ -91,7 +91,6 @@
             </tr>
         </tbody>
     </table>
-
     <div id="appointmentFormContainer" style="display: none;">
         <h2>Добавить новую запись</h2>
         <form id="appointmentForm">
